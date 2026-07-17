@@ -13,6 +13,17 @@ A personal theme for Zed, based on the [GitHub VS Code theme](https://github.com
 1. Run `zed: install dev extension` from the Zed command palette and select this directory
 2. Edit `themes/my-theme.json`; changes are applied on save
 
+### Checks
+
+CI validates the theme files against the official Zed theme schema on every
+push and pull request. To run the same check locally:
+
+```sh
+pipx run check-jsonschema \
+  --schemafile https://zed.dev/schema/themes/v0.2.0.json \
+  themes/*.json
+```
+
 ## License
 
 MIT — the color palette is derived from [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme) (MIT, Copyright (c) 2020 Primer).
