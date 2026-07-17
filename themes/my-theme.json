@@ -145,6 +145,57 @@
           },
           "variable.special": {
             "color": "#79c0ff"
+          },
+          "attribute": {
+            "color": "#79c0ff"
+          },
+          "boolean": {
+            "color": "#79c0ff"
+          },
+          "embedded": {
+            "color": "#e6edf3"
+          },
+          "enum": {
+            "color": "#79c0ff"
+          },
+          "hint": {
+            "color": "#7d8590"
+          },
+          "operator": {
+            "color": "#e6edf3"
+          },
+          "predictive": {
+            "color": "#6e7681"
+          },
+          "preproc": {
+            "color": "#ff7b72"
+          },
+          "primary": {
+            "color": "#e6edf3"
+          },
+          "property": {
+            "color": "#79c0ff"
+          },
+          "punctuation": {
+            "color": "#e6edf3"
+          },
+          "punctuation.bracket": {
+            "color": "#e6edf3"
+          },
+          "punctuation.delimiter": {
+            "color": "#e6edf3"
+          },
+          "punctuation.list_marker": {
+            "color": "#ffa657"
+          },
+          "punctuation.special": {
+            "color": "#ff7b72"
+          },
+          "type": {
+            "color": "#ffa657"
+          },
+          "variant": {
+            "color": "#79c0ff"
           }
         }
       }
@@ -291,6 +342,57 @@
           },
           "variable.special": {
             "color": "#0550ae"
+          },
+          "attribute": {
+            "color": "#0550ae"
+          },
+          "boolean": {
+            "color": "#0550ae"
+          },
+          "embedded": {
+            "color": "#1f2328"
+          },
+          "enum": {
+            "color": "#0550ae"
+          },
+          "hint": {
+            "color": "#656d76"
+          },
+          "operator": {
+            "color": "#1f2328"
+          },
+          "predictive": {
+            "color": "#8c959f"
+          },
+          "preproc": {
+            "color": "#cf222e"
+          },
+          "primary": {
+            "color": "#1f2328"
+          },
+          "property": {
+            "color": "#0550ae"
+          },
+          "punctuation": {
+            "color": "#1f2328"
+          },
+          "punctuation.bracket": {
+            "color": "#1f2328"
+          },
+          "punctuation.delimiter": {
+            "color": "#1f2328"
+          },
+          "punctuation.list_marker": {
+            "color": "#953800"
+          },
+          "punctuation.special": {
+            "color": "#cf222e"
+          },
+          "type": {
+            "color": "#953800"
+          },
+          "variant": {
+            "color": "#0550ae"
           }
         }
       }
@@ -436,6 +538,57 @@
             "color": "#f69d50"
           },
           "variable.special": {
+            "color": "#6cb6ff"
+          },
+          "attribute": {
+            "color": "#6cb6ff"
+          },
+          "boolean": {
+            "color": "#6cb6ff"
+          },
+          "embedded": {
+            "color": "#adbac7"
+          },
+          "enum": {
+            "color": "#6cb6ff"
+          },
+          "hint": {
+            "color": "#768390"
+          },
+          "operator": {
+            "color": "#adbac7"
+          },
+          "predictive": {
+            "color": "#636e7b"
+          },
+          "preproc": {
+            "color": "#f47067"
+          },
+          "primary": {
+            "color": "#adbac7"
+          },
+          "property": {
+            "color": "#6cb6ff"
+          },
+          "punctuation": {
+            "color": "#adbac7"
+          },
+          "punctuation.bracket": {
+            "color": "#adbac7"
+          },
+          "punctuation.delimiter": {
+            "color": "#adbac7"
+          },
+          "punctuation.list_marker": {
+            "color": "#f69d50"
+          },
+          "punctuation.special": {
+            "color": "#f47067"
+          },
+          "type": {
+            "color": "#f69d50"
+          },
+          "variant": {
             "color": "#6cb6ff"
           }
         }
