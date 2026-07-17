@@ -1,0 +1,7 @@
+id = "my-theme"
+name = "My Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["d-mato"]
+description = "My personal Zed theme, based on the GitHub VS Code theme (primer/github-vscode-theme)"
+repository = "https://github.com/d-mato/zed-my-theme"
