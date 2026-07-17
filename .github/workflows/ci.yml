@@ -1,0 +1,16 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+env:
+  ZED_THEME_SCHEMA: https://zed.dev/schema/themes/v0.2.0.json
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - run: pipx run check-jsonschema --schemafile "$ZED_THEME_SCHEMA" themes/*.json
